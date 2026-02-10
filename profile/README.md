@@ -48,14 +48,6 @@ Our system relies on a multi-layered sensor approach:
 
 ---
 
-## 📅 Roadmap (2025–2026)
-
-- **Nov 2025 – Dec 2025**: System Design & Hardware Architecture.
-- **Dec 2025 – Feb 2026**: Embedded System Development & Prototyping.
-- **March 2026 – Aug 2026**: Software, Backend, & Mobile App Development. 
-- **Sept 2026 – Onward**: Integration, Deployment, and Official Launch.
-
----
 
 ## 🌍 Impact & Alignment
 
